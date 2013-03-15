@@ -2,6 +2,7 @@ source 'https://rubygems.org'
 
 gem 'rails', '3.2.12'
 gem 'therubyracer'
+gem 'omniauth-facebook'
 
 group :development, :test do
   gem 'sqlite3'

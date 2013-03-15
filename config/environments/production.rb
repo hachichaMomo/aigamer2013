@@ -1,4 +1,9 @@
 Aigamer2013::Application.configure do
+  
+  config.FACEBOOK_APP_ID = '358163614289600' 
+
+  config.FACEBOOK_SECRET = '33ea857816cffb740f22114e46b049f1'
+
   # Settings specified here will take precedence over those in config/application.rb
 
   # Code is not reloaded between requests
